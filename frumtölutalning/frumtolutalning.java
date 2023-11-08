@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class whatever {
+public class frumtolutalning {
 
     public static void main(String[] args) {
         Scanner scn = new Scanner(System.in);
