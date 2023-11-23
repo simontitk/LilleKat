@@ -1,0 +1,1 @@
+console.log([...readline(), ...readline()].sort().join(""));
